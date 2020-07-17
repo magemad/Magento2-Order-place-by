@@ -7,9 +7,9 @@ This is Magento2 extension use to show who placed order. Is it Admin or Customer
 3. Run setup:upgrade command from CLI
 4. Clear cache
 
-Check extension page
-Msrketplace: https://marketplace.magento.com/magemad-ordercolumn-orderplacedby.html
-Website: https://magemad.com/order-placed-by.html
+# Check extension page
+* Msrketplace: https://marketplace.magento.com/magemad-ordercolumn-orderplacedby.html
+* Website: https://magemad.com/order-placed-by.html
 
 Post issues if found any. We will fix asap.
 
